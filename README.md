@@ -9,7 +9,7 @@
 
 
 # Estudando as linguagens:
-![phyton](https://github.com/user-attachments/assets/9fbf4c77-1580-402b-a9d6-1871af01226a)! ![image](https://github.com/user-attachments/assets/37b6391c-464e-4abb-b9d1-8338c4dfd53e)
+![image](https://github.com/user-attachments/assets/37b6391c-464e-4abb-b9d1-8338c4dfd53e)
 
 
 
