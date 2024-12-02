@@ -8,8 +8,7 @@
 
 
 
-# Estudando as linguagens:
-![image](https://github.com/user-attachments/assets/37b6391c-464e-4abb-b9d1-8338c4dfd53e)
+
 
 
 
