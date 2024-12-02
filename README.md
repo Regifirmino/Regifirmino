@@ -1,10 +1,9 @@
 - 👋 Olá, eu sou Regiane Firmino
-- 🎓 Formada em Administração e pós graduada em Gestão de pessoas
-- 🎓 Formada no Bootcamp Tecnologia em nuvem e IA - Microsoft 
-- 📚 Estudande do curso superior de Tecnologia em redes de computadores
+- 🎓 Formada em Administração e pós graduada em Gestão de Pessoas
+- 📚 Estudande do curso superior de Tecnologia em Redes de Computadores
 - 💻 Mergulhando no universo da tecnologia
-- 💞️ Estou aqui animada para aprender
-- 📧 Meu contato: refirminogomes@gmail.com
+
+- 📧 Meu contato: contatorefirmino@gmail.com
 
 
 
